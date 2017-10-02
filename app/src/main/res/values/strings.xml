@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">zgao1-CountBook</string>
+    <string name="setbutton">save</string>
+</resources>
